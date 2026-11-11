@@ -1,0 +1,37 @@
+{
+  "version": 4,
+  "project": {
+    "catalog": "prod",
+    "initializedAt": "2026-11-11T14:38:56.622Z",
+    "merchantDisplayName": null,
+    "merchantId": "acct_1UaYceJLz0JuANqv",
+    "projectId": "project_61Vk0dELyscWEuMMI16Vjwa1GEGC9H2wK9Hpi5EYaLiq",
+    "projectName": "stripe-mpp-hackaton"
+  },
+  "providers": {
+    "railway": {
+      "accountRequestId": "facctrq_61Vk0dqI4TVPXWBzn16Vjwa1GEGC9H2wK9Hpi5EYa5RQ",
+      "configuration": {},
+      "linkedAt": "2026-11-11T14:39:36.516Z",
+      "providerId": "prvdr_61UK2uWsoydL7tUBp57Fg",
+      "providerName": "Railway",
+      "redirectUrl": null,
+      "requestedAt": "2026-11-11T14:39:35.048Z",
+      "status": "complete"
+    }
+  },
+  "resources": {
+    "railway-plan": {
+      "configuration": {},
+      "createdAt": "2026-11-11T14:39:37.993Z",
+      "lastRevealedAt": "2026-11-11T14:39:38.335Z",
+      "lastStatus": "complete",
+      "livemode": true,
+      "name": "railway-plan",
+      "providerId": "prvdr_61UK2uWsoydL7tUBp57Fg",
+      "providerName": "Railway",
+      "resourceId": "fres_61Vk0dtRcj3wW4PhT16Vjwa1GEGC9H2wK9Hpi5EYaMYa",
+      "serviceId": "free"
+    }
+  }
+}
